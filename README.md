@@ -16,5 +16,7 @@
 </div>
 <br>
 - 🔭 Trabalhando com Front-End <br>
-- 🌱 Aprendendo ReactJS <br>
-- <a href="https://dinottom8.github.io/portfolio/" target="_blank">Portfólio</a>
+- 🌱 Aprendendo ReactJS <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinottom8&show_icons=true&theme=synthwave)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinottom8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
