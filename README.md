@@ -26,5 +26,4 @@
   - 🌱 Aprendendo ReactJS <br><br>
 </div>
 
-![github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=dinottom8)
 ![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=dinottom8)
