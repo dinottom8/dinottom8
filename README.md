@@ -26,4 +26,12 @@
   - 🌱 Aprendendo ReactJS <br><br>
 </div>
 
-![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=dinottom8)
+<div align='center'>
+
+<!-- Github dark mode -->
+[![Top Langs](https://anthonyraf-stats.vercel.app/api/top-langs/?username=dinottom8&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC&card_width=350#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anthony's GitHub stats](https://anthonyraf-stats.vercel.app/api?username=dinottom8&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
+<!-- Github light mode -->
+[![Top Langs](https://anthonyraf-stats.vercel.app/api/top-langs/?username=dinottom8&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  [![Anthony's GitHub stats](https://anthonyraf-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false&card_width=400#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</div>
