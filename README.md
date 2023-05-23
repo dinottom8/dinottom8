@@ -26,6 +26,5 @@
   - 🌱 Aprendendo ReactJS <br><br>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinottom8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=dinottom8)
+![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=dinottom8)
